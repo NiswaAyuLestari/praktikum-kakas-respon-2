@@ -1,0 +1,2 @@
+Ini respon kakas
+1. membuat repository di lokal
